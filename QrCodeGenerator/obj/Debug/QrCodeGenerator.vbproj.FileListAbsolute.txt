@@ -1,0 +1,38 @@
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.exe.config
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.vbprojResolveAssemblyReference.cache
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.QrCodeGenerator.resources
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.Resources.resources
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.vbproj.GenerateResource.Cache
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.xml
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.exe
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.pdb
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.xml
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\MessagingToolkit.QRCode.dll
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.exe
+E:\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.pdb
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.exe.config
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.exe
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.pdb
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.xml
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.vbprojAssemblyReference.cache
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.QrCodeGenerator.resources
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.Resources.resources
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.vbproj.GenerateResource.cache
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.vbproj.CoreCompileInputs.cache
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.vbproj.CopyComplete
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.exe
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.xml
+E:\Aditya\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.pdb
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.exe.config
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.exe
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.pdb
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\bin\Debug\QrCodeGenerator.xml
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.vbprojAssemblyReference.cache
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.QrCodeGenerator.resources
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.Resources.resources
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.vbproj.GenerateResource.cache
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.vbproj.CoreCompileInputs.cache
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.vbproj.CopyComplete
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.exe
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.xml
+E:\A@MMHAPU\A Study File\Visual Basic2015.Net Program\QrCodeGenerator\QrCodeGenerator\obj\Debug\QrCodeGenerator.pdb
